@@ -56,4 +56,4 @@ app.get('/getUserById/:id', function (req, res) {
 
 app.get('/', (req, res) => res.send('Hello Demo!'))
 
-app.listen(3232, () => console.log('Example app listening on port 3000!'))
+app.listen(3232, () => console.log('Example app listening on port 3232!'))
